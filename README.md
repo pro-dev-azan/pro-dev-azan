@@ -1,7 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="![6BD8B9F7-C45F-481E-8DC3-E387E8F65346](https://github.com/user-attachments/assets/ea6a9fe1-670c-4a99-86a2-15dbb8c3919a)
-" width="120" height="120" style="border-radius:50%" alt="Azan Arif Avatar"/>
+  <img src="https://github.com/user-attachments/assets/ea6a9fe1-670c-4a99-86a2-15dbb8c3919a" width="120" height="120" style="border-radius:50%" alt="Azan Arif Avatar"/>
 </p>
 
 <h1 align="center">Hi, I'm Azan Arif 👋</h1>
