@@ -97,7 +97,7 @@ Solvpath is an **AI-powered customer support automation platform** for e-commerc
 
 ---
 
-### <img src="https://www.devsinc.com/wp-content/uploads/2021/11/Devsinc_Logo-1.png" alt="Devsinc Logo" width="180"/>  
+### <img src="https://letsremotify.com/wp-content/uploads/2023/08/dev-parr.png" alt="Devsinc Logo" width="180"/>  
 **Devsinc | Software Engineer**  
 *Lahore, Pakistan | 2019 – 2022*  
 
