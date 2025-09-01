@@ -1,4 +1,5 @@
 <!-- Profile Header -->
+
 <h1 align="center">Hi, I'm Azan Arif 👋</h1>
 <p align="center">
   💻 Senior Software Engineer | 🚀 Rails & React Specialist | ☁️ AWS Cloud Architect
@@ -57,7 +58,7 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 
 ## 💼 Experience
 
-### <img src="https://reciprofity.com/wp-content/uploads/2024/09/ReciProfity-logo.png" alt="ReciProfity Logo" width="160"/>  
+### <img src="https://reciprofity.com/wp-content/uploads/2024/09/ReciProfity-logo.png" alt="ReciProfity Logo" width="200"/>  
 **ECRS – ReciProfity | Senior Software Engineer**  
 *United States (Remote) | 2024 – Present*  
 
@@ -67,11 +68,17 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 - 🔐 Implemented **SOC 2, GDPR, CIS** compliance controls.  
 - 🤝 Directed **integration with Catapult**, aligning workflows across platforms.  
 
-> **ReciProfity** helps restaurants and suppliers manage **recipes, food costs, and inventory** in real time.  
+**About ReciProfity**  
+ReciProfity is a **cloud-based recipe and food cost management platform** built for restaurants, distributors, and food service organizations.  
+
+- 📦 **Inventory & Costing** – Track ingredient usage, vendor pricing, and shrinkage.  
+- 📊 **Profitability Dashboard** – Monitor gross margins, profitability, and COGS in real-time.  
+- 🧾 **Recipe Management** – Build, scale, and cost recipes with nutritional data integration.  
+- 🔐 **Compliance & Security** – Supports multi-organization access, audit logging, and SOC/GDPR standards.  
 
 ---
 
-### <img src="https://solvpath.com/wp-content/uploads/2020/08/cropped-logo-1.png" alt="Solvpath Logo" width="140"/>  
+### <img src="https://solvpath.com/wp-content/uploads/2020/08/cropped-logo-1.png" alt="Solvpath Logo" width="160"/>  
 **Solvpath | Software Engineer**  
 *New York, USA (Remote) | 2022 – 2023*  
 
@@ -80,12 +87,18 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 - 🔗 Created a **CRM integration framework** (Zendesk, HubSpot, Sticky.io).  
 - 📈 Delivered an **analytics dashboard** to track retention & performance.  
 
-> **Solvpath** empowers e-commerce brands with **AI chatbots, automation, and CRM integrations**.  
+**About Solvpath**  
+Solvpath is an **AI-powered customer support automation platform** for e-commerce and subscription businesses.  
+
+- 🛍 **Shopify App & Plugins** – Seamlessly integrate with Shopify for automated support flows.  
+- 🤖 **AI Chatbot** – Automates FAQs, order tracking, and support resolution using OpenAI.  
+- 🔗 **CRM & Ticketing Integrations** – Works with Zendesk, HubSpot, Gorgias, Gladly, Sublytics, Sticky.io, and Konnective.  
+- 📈 **Analytics Dashboard** – Tracks retention, ticket closures, and support team performance.  
 
 ---
 
-### <img src="https://media.designrush.com/agencies/165599/conversions/Devsinc-logo-profile.jpg" alt="Solvpath Logo" width="140"/>
-**Devsinc | Software Engineer**
+### <img src="https://www.devsinc.com/wp-content/uploads/2021/11/Devsinc_Logo-1.png" alt="Devsinc Logo" width="180"/>  
+**Devsinc | Software Engineer**  
 *Lahore, Pakistan | 2019 – 2022*  
 
 - 🏗 Designed scalable **Rails + React** architecture.  
@@ -93,7 +106,13 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 - 🔄 Built **CI/CD pipelines** with GitLab + CircleCI.  
 - 📊 Enhanced performance with **query optimization & caching**.  
 
-> **Devsinc** is a global software services company serving **startups & Fortune 500s**.  
+**About Devsinc**  
+Devsinc is a **global software development services company** headquartered in Lahore, Pakistan, with a strong presence in the US market.  
+
+- 💻 **Full-Stack Engineering** – Expertise in Ruby on Rails, React, Node.js, Python, and Java.  
+- ☁️ **Cloud Solutions** – AWS, Azure, and GCP consulting and migration.  
+- 📱 **Mobile Development** – React Native, Flutter, and native iOS/Android apps.  
+- 🤝 **Team Augmentation** – Provides dedicated engineering teams to support long-term client growth.  
 
 ---
 
@@ -116,5 +135,3 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
   <a href="https://linkedin.com/in/azandev"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/pro-dev-azan"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
