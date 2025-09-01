@@ -57,7 +57,8 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 
 ## 💼 Experience
 
-### 🟦 [ECRS – ReciProfity](https://reciprofity.com/) | *Senior Software Engineer*  
+### <img src="https://reciprofity.com/wp-content/uploads/2024/09/ReciProfity-logo.png" alt="ReciProfity Logo" width="160"/>  
+**ECRS – ReciProfity | Senior Software Engineer**  
 *United States (Remote) | 2024 – Present*  
 
 - 🛠 Upgraded **Rails v5 → v8** & **Bootstrap v3 → v5**, modernizing core stack.  
@@ -70,7 +71,8 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 
 ---
 
-### 🟩 [Solvpath](https://solvpath.com/) | *Software Engineer*  
+### <img src="https://solvpath.com/wp-content/uploads/2020/08/cropped-logo-1.png" alt="Solvpath Logo" width="140"/>  
+**Solvpath | Software Engineer**  
 *New York, USA (Remote) | 2022 – 2023*  
 
 - 🛍 Developed a **Shopify app/plugin** for automated support.  
@@ -82,7 +84,8 @@ I am a **Senior Software Engineer** with a track record of modernizing legacy pl
 
 ---
 
-### 🟥 [Devsinc](https://www.devsinc.com/) | *Software Engineer*  
+### <img src="https://media.designrush.com/agencies/165599/conversions/Devsinc-logo-profile.jpg" alt="Solvpath Logo" width="140"/>
+**Devsinc | Software Engineer**
 *Lahore, Pakistan | 2019 – 2022*  
 
 - 🏗 Designed scalable **Rails + React** architecture.  
